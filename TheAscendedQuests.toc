@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: The Ascended Quest Chain Completion
+## Notes: Shows progress and coordinates for all The Ascended quests that give Reputation. 
+## Author: nu_tastymint
+## Version: 0.1.0
+## DefaultState: enabled
+
+TheAscendedQuests.lua
+
